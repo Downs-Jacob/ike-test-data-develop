@@ -1,0 +1,35 @@
+{
+    "POTM_1": {
+        "Num_People": "1",
+        "Num_Companies": "1",
+        "Length": "82",
+        "guid": "urn:rss:bizjournals.com:20240123:potmsubmission_6540435",
+        "dc:identifier": "potmsubmission_6540435",
+        "bizj:subtype": "promotion",
+        "title": "Matthew Dale",
+        "bizj:employer": "Embark Behavioral Health",
+        "bizj:current_position": "Vice President of Operations: West Coast Division",
+        "bizj:previous_position": "Executive Director for Embark at Berwyn, PA",
+        "dc:type": "Premium",
+        "bizj:sicgroup": "Health Care",
+        "link": "https://www.bizjournals.com/philadelphia/potmsearch/detail/submission/6540435/Matthew_Dale",
+        "pubDate": "Tue, 23 Jan 2024 14:47:18 +0000",
+        "dcterms:modified": "2024-01-31T15:54:41+00:00",
+        "bizj:journal": "Philadelphia Business Journal",
+        "bizj:journals": "Philadelphia Business Journal",
+        "bizj:markets": "philadelphia",
+        "bizj:market": "philadelphia",
+        "source": {
+            "url": "https://www.bizjournals.com/philadelphia/"
+        },
+        "description": "Matthew Dale has been appointed interim Vice President of Operations for the West U.S. Region of Embark Behavioral Health. Initially tasked with growing the Berwyn, PA facility in 2021, he formed an exceptional team and established it as a leader in the Philadelphia Metro. In 2023, he assumed operational control of the Ashburn, VA facility and again built and developed a positive place of healing for families in the DC Metro. He will continue to support until Embark finds a permanent candidate.",
+        "media:thumbnail": {
+            "url": "https://media.bizj.us/view/img/12667646/matt-dale-executive-director-1229x1536*200xx1229-1229-0-0.png"
+        },
+        "media:content": {
+            "url": "https://media.bizj.us/view/img/12667646/matt-dale-executive-director-1229x1536.png",
+            "medium": "image",
+            "media:category": "image"
+        }
+    }
+}
